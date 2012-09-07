@@ -1,6 +1,6 @@
 package Bundle::Bio::Phylo::PhyLoTA;
 
-$VERSION = '1';
+$VERSION = '0.1';
 
 1;
 
