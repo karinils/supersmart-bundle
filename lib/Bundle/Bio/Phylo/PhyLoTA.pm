@@ -27,6 +27,7 @@ DBD::mysql
 Moose
 Bio::Species
 XML::Twig
+HTML::Parser
 
 =head1 DESCRIPTION
 
